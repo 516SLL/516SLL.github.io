@@ -13,13 +13,13 @@ var yOffset = 500;
 // y轴加载的速度
 var yLoadSpeed = 0;
 // 波浪颜色
-const waveColor = "rgba(250, 177, 160,1)";
-const waveColorShallow = "rgba(250, 177, 160, 0.2)";
+const waveColor = "rgba(46,30,68, 1)";
+const waveColorShallow = "rgba(46,30,68, 0.4)";
 // 描绘波浪边的颜色
-const waveLineColor = "rgba(44, 62, 80,0.4)";
+const waveLineColor = "rgba(44, 62, 80,1)";
 const borderLineColor = "rgba(209, 239, 255, 1.0)";
-const fontColor = "rgba(0, 184, 148,1.0)";
-const fontColor2 = "rgba(44, 52, 65, 1.0)";
+const fontColor = "rgb(173,204,224)";
+const fontColor2 = "rgb(228,1,128)";
 // 描绘波浪阴影的大小
 var waveLineShadowBlur = 2;
 // 波浪边上的阴影
